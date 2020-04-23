@@ -16,8 +16,8 @@ let RADIUS = 10
 let audio = document.createElement('audio')
 audio.style.display = "none"
 document.body.append(audio)
-// audio.src = "https://dmitriy3342.github.io/andromeda/music/Metallic Suns.mp3"
-audio.src = "/audio/Linear_Vision_WDfaVpSnyAs_320kbps.mp3"
+// audio.src = "/audio/Linear_Vision_WDfaVpSnyAs_320kbps.mp3"
+audio.src = "https://dmitriy3342.github.io/points/audio/Linear_Vision_WDfaVpSnyAs_320kbps.mp3"
 audio.loop = true
 
 // @ts-ignore
